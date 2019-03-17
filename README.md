@@ -1,2 +1,1 @@
-# hexlet-basics
-my first repository
+Hello, everyone
